@@ -1,0 +1,18 @@
+- <b></b> - bold
+- <i></i> - italic
+- <p></p> - paragraph
+- <h1></h1> - heading
+- lorem - generate Lorem Ipsum text
+- p*5>lorem - generate 5 paragraphs of Lorem Ipsum
+- <!DOCTYPE html> - all HTML documents must start with a <!DOCTYPE> declaration, the declaration is not an HTML tag, it is an "information" to the browser about what document type to expect
+- <html></html> - represents the root of an html document, also referred to as the root element, <head> and <body> are placed here
+- <head></head> - contains metadata about the page
+- <title></title> - defines the document title and is placed inside the <head> tag
+- <body></body> - defines the actual content of the page
+- ! - by writing this at the begining of a html file while using vscode you will generate a boilerplate html code
+- <ul></ul> - represents an unordered list of items
+- <ol></ol> - represents an ordered list of items
+- <li></li> - represents a list item
+- <a></a> - anchor creates a hyperlink though the href attribute to a web page, file or location in the same page
+- <img> - image element embeds an image into the document, src attribute is used to specify the image
+- <!-- --> - comment
