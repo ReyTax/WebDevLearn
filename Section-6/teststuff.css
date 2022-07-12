@@ -1,0 +1,17 @@
+label {
+    font-style: bold;
+    background-color: blueviolet;
+    color: white;
+}
+
+p {
+    background: black;
+    color: white;
+    text-align: center;
+    font-weight: 900;
+    text-decoration: wavy blue line-through;
+    line-height: 2;
+    letter-spacing: 2px;
+    font-size: 15px;
+    font-family: 'Courier New', Courier, monospace;
+}

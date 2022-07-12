@@ -1,0 +1,51 @@
+div:nth-of-type(1n) {
+    width: 200px;
+    height: 200px;
+    background-color: aquamarine;
+    border-width: 5px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 15%;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    box-sizing: border-box;
+}
+
+button {
+    border-radius: 15%;
+    padding: 15px 15px;
+    margin: 15px 15px 15px 15px;
+}
+
+h2 {
+    background-color: pink;
+    border: 2px solid black;
+    padding: 15px 15px 15px 15px;
+    margin: 15px 15px 15px 15px;
+    display: inline-block;
+    font-size: 5rem;
+}
+
+span {
+    background-color: blue;
+    border: 2px solid black;
+    display: block;
+    font-size: 2em;
+}
+
+section {
+    width: 500px;
+    height: 500px;
+    background-color: blue;
+    align-content: center;
+}
+
+#divst {
+    width: 50%;
+    height: 50%;
+    background-color: red;
+    position: relative;
+    align-self: ce;
+}
